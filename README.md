@@ -2,11 +2,8 @@
  - The program finds suitable time slots
     if the desired meting time provided.
 
-    - It can took 2 lists which contains
-    available times of persons.
-
-    - !! Lists are created manually.
-
+    - !! In the code, I am creating lists manually !!
+    
     Usage:
 
     Think that 2 lists which already shown below are holds persons available time space.
